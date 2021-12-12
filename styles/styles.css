@@ -1,0 +1,23 @@
+html {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+aside {
+    background: #f0f0f0;
+    padding: 10px;
+    width: 200px;
+    float: right;
+   }
+main {
+    margin-right: 240px;
+   }
+h1 {
+    text-align: center;
+}
+h2 {
+    margin-left: 10px;
+}
+footer {
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Philosopher';
+    src: url('Philosopher-Bold.woff') format('woff'),
+         url('Philosopher-Bold.woff2') format('woff2'),
+         url('Philosopher-BoldItalic.woff') format('woff'),
+         url('Philosopher-BoldItalic.woff2') format('woff2'),
+         url('Philosopher-Regular.woff') format('woff'),
+         url('Philosopher-Regular.woff2') format('woff2'),
+         url('Philosopher-Italic.woff') format('woff'),
+         url('Philosopher-Italic.woff2') format('woff2');
+     font-weight: 400;
+     font-style: normal;
+}
